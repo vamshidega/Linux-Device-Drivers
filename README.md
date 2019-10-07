@@ -6,3 +6,6 @@ This is the practicing the linux device drivers and developing code from the scr
 
 #GPIO_driver
 1. GPIO_driver using the legacy API, Provided provision to export to sysfs, Tested on the Raspberrypi
+
+#Block_Driver
+1.Block driver to initialize , Creating a ramdisk , registering with VFS, processing the IO requests is handled.
